@@ -1,0 +1,10 @@
+{
+	"name": "projection",
+	"repo": "Wizcorp/math-projection",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js",
+		"perspective2D.js"
+	],
+	"license": "MIT"
+}
